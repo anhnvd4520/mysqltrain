@@ -1,0 +1,1 @@
+select count(*) from giangvien where makhoa ="Bio"; 

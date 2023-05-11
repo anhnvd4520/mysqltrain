@@ -1,0 +1,1 @@
+select * from sinhvien where masv = 4;
